@@ -1,0 +1,14 @@
+D:\vscode\templates\console9\bin\Debug\net9.0\console9.exe
+D:\vscode\templates\console9\bin\Debug\net9.0\console9.deps.json
+D:\vscode\templates\console9\bin\Debug\net9.0\console9.runtimeconfig.json
+D:\vscode\templates\console9\bin\Debug\net9.0\console9.dll
+D:\vscode\templates\console9\bin\Debug\net9.0\console9.pdb
+D:\vscode\templates\console9\obj\Debug\net9.0\console9.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\templates\console9\obj\Debug\net9.0\console9.AssemblyInfoInputs.cache
+D:\vscode\templates\console9\obj\Debug\net9.0\console9.AssemblyInfo.cs
+D:\vscode\templates\console9\obj\Debug\net9.0\console9.csproj.CoreCompileInputs.cache
+D:\vscode\templates\console9\obj\Debug\net9.0\console9.dll
+D:\vscode\templates\console9\obj\Debug\net9.0\refint\console9.dll
+D:\vscode\templates\console9\obj\Debug\net9.0\console9.pdb
+D:\vscode\templates\console9\obj\Debug\net9.0\console9.genruntimeconfig.cache
+D:\vscode\templates\console9\obj\Debug\net9.0\ref\console9.dll
